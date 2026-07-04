@@ -1,12 +1,19 @@
-# Leetcode-solution
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Anuragcoder2304/Leetcode-solution/tree/master/0001-two-sum) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Anuragcoder2304/Leetcode-solution/tree/master/0001-two-sum) |
-<!---LeetCode Topics End-->
+# 💻 LeetCode Solutions
+
+![LeetCode Stats]
+
+## 📊 Progress Summary
+
+| Category | Solved |
+| :--- | :--- |
+| 🟢 Easy | 0 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
+
+---
+
+## 📚 Solution Index
+
+| # | Title | Difficulty | Language | Solution File |
+| :---: | :--- | :---: | :---: | :--- |
+| 0001 | [Two Sum](https://leetcode.com) | 🟢 Easy | Python | [solution.py](./solutions/0001-Two-Sum/solution.py) |
